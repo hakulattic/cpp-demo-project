@@ -26,9 +26,9 @@ classifiers = [
 dynamic = ["dependencies"]
 
 [project.urls]
-Homepage = "https://github.com/hakula139/cpp-demo-project"
-Repository = "https://github.com/hakula139/cpp-demo-project"
-Documentation = "https://github.com/hakula139/cpp-demo-project"
+Homepage = "https://github.com/hakulattic/cpp-demo-project"
+Repository = "https://github.com/hakulattic/cpp-demo-project"
+Documentation = "https://github.com/hakulattic/cpp-demo-project"
 
 [tool.poetry]
 # Note: .so files must be copied to src/demo/ before building

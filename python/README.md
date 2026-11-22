@@ -1,6 +1,6 @@
 # Python Bindings for Modern C++ Features Demo Project
 
-[![Build & Test](https://github.com/hakula139/cpp-demo-project/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hakula139/cpp-demo-project/actions/workflows/build-and-test.yml)
+[![Build & Test](https://github.com/hakulattic/cpp-demo-project/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/hakulattic/cpp-demo-project/actions/workflows/build-and-test.yml)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
 [![Poetry](https://img.shields.io/badge/poetry-latest-blue.svg)](https://python-poetry.org)
 [![pybind11](https://img.shields.io/badge/pybind11-latest-green.svg)](https://pybind11.readthedocs.io)
